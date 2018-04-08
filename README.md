@@ -68,8 +68,10 @@ My personal list of reference resources for game programming
 
 ## Math
 * [Building a better jump - Math for Game Programmers](http://www.mathforgameprogrammers.com/gdc2016/GDC2016_Pittman_Kyle_BuildingABetterJump.pdf)
+* [Essential Math for Game Programmers](http://essentialmath.com/book.htm)
 * [Grassman Algebra in Game Development - Eric Lengyel (GDC 2014)](http://www.terathon.com/gdc14_lengyel.pdf)
 * [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+* [Math for Game Programmers](http://www.mathforgameprogrammers.com/)
 
 ## Multithreading
 * [Designing the Framework of a
@@ -88,11 +90,18 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 
 ## Software Architecture and Design
 ### Design Patterns and OOP
+* [Command - Game Programming Patterns](http://gameprogrammingpatterns.com/command.html)
+* [Component - Game Programming Patterns](http://gameprogrammingpatterns.com/component.html)
+* [Observer - Game Programming Patterns](http://gameprogrammingpatterns.com/observer.html)
+* [Singleton - Game Programming Patterns](http://gameprogrammingpatterns.com/observer.html)
+* [Service Locator - Game Programming Patterns](http://gameprogrammingpatterns.com/service-locator.html)
+* [Event Queue - Game Programming Patterns](http://gameprogrammingpatterns.com/event-queue.html)
 ### Entity Component System
 * [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
 ### Data Oriented Design
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design)
 * [Data Locality - Game Programming Patterns](http://gameprogrammingpatterns.com/data-locality.html)
+* [CPU Cache and why you care - Scoot Meyers](https://vimeo.com/97337258)
 * [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
 * [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
