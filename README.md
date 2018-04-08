@@ -22,7 +22,7 @@ My personal list of reference resources for game programming
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [Entity-component-systems (ECS)](#entity-component-system)
   * [Data Oriented Design](#data-oriented-design)
-* [More lists](#more-lists)
+* [Other resources](#other-resources)
 
 ## AI
 * [Introduction to A* - Red Blob Games](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
@@ -34,6 +34,10 @@ My personal list of reference resources for game programming
 ## Career
 * [So you want to be a game programmer? Noel Llopis](http://gamesfromwithin.com/so-you-want-to-be-a-game-programmer)
 * [How bad is the game industry for new programmers - Quora](https://www.quora.com/How-bad-is-the-game-developer-industry-for-new-programmers)
+* [Game Development Salaries](https://www.loveforgames.com/salary/)
+* [How to become a Graphics Programmer on the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
+* [Ara's Interview Questions](https://aras-p.info/blog/2016/11/05/Interview-questions/)
+* [Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html)
 
 ## Graphics
 ### Hardware and Graphics Pipeline
@@ -158,7 +162,10 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
 * [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
 * [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
-
-## More Lists
-* [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
 * [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
+
+## Other resources
+* [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
+* [Engine and Graphics Programming Study Notes](https://encelo.github.io/notes.html)
+* [List of Cool blogs on game programming](https://gist.github.com/Reedbeta/dd800c6bda59c3351fbd3474acbea430)
+* [/r/gamedev FAQ](https://www.reddit.com/r/gamedev/wiki/faq)
