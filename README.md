@@ -7,7 +7,11 @@ My personal list of reference resources for game programming
   * [Hardware and Graphics Pipeline](#hardware-and-graphics-pipeline)
   * [API specifics](#api-specifics)
   * [Shader Programming](#shader-programming)
-  * [Techniques](#techniques)
+  * [Techniques](#techniques) 
+  * [Graphics studies](#graphics-studies)
+* [Low Level Programming](#low-level-programming)
+  * [Assembly and CPU microarchitecture](#assembly-and-cpu-microarchitecture)
+  * [SIMD](#simd)
 * [Programming Languages](#programming-languages)
 * [Math](#math)
 * [Networking](#networking)
@@ -74,7 +78,7 @@ My personal list of reference resources for game programming
 * [Real-Time Many-Light Management and Shadows with Clustered Shading](https://newq.net/publications/more/s2015-many-lights-course)
 * [Order your draw calls around!](http://realtimecollisiondetection.net/blog/?p=86)
 
-## Graphics Studies
+### Graphics Studies
 * [GTA V Graphics Study - Adrian Courreges](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
 * [DOOM 2016 Graphics Study - Adrian Courreges](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 * [Metal Gear Solid V - Graphics Study](http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
@@ -98,8 +102,10 @@ My personal list of reference resources for game programming
 
 ### C#
 * [C# Yellow Book](http://www.csharpcourse.com/)
+
 ## Math
 * [Building a better jump - Math for Game Programmers](http://www.mathforgameprogrammers.com/gdc2016/GDC2016_Pittman_Kyle_BuildingABetterJump.pdf)
+* [Bezier Curves](https://javascript.info/bezier-curve)
 * [Essential Math for Game Programmers](http://essentialmath.com/book.htm)
 * [Grassman Algebra in Game Development - Eric Lengyel (GDC 2014)](http://www.terathon.com/gdc14_lengyel.pdf)
 * [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
@@ -115,7 +121,10 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 
 ## Networking
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
-* [Sending Large Blocks of Data over UDP - Gaffer on Games](https://gafferongames.com/post/sending_large_blocks_of_data/)
+* [Game Networking - Gaffer on Games](https://gafferongames.com/categories/game-networking/)
+* [Networked Physics - Gaffer on Games](https://gafferongames.com/categories/networked-physics/)
+* [Development and Deployment of Multiplayer Online Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
+* [I Shot You First: Networking the Gameplay of HALO: REACH](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking)
 * [Tribes Networking Model](http://gamedevs.org/uploads/tribes-networking-model.pdf)
 * [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/)
 
@@ -133,6 +142,8 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Event Queue - Game Programming Patterns](http://gameprogrammingpatterns.com/event-queue.html)
 ### Entity Component System
 * [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
+* [What is an Entity Component System architecture for game development? - Richard Lord](http://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
+* [Understanding Component-Entity-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
 ### Data Oriented Design
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design)
