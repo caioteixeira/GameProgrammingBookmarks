@@ -15,12 +15,12 @@ My personal list of reference resources for game programming
   * [SIMD](#simd)
 * [Programming Languages](#programming-languages)
 * [Math](#math)
-* [Networking](#networking)
 * [Multithreading](#multithreading)
+* [Networking](#networking)
 * [Physics](#physics)
 * [Software architecture and design](#software-architecture-and-design)
   * [Design Patterns and OOP](#design-patterns-and-oop)
-  * [Entity-component-systems (ECS)](#entity-component-system)
+  * [Entity-component-systems (ECS)](#entity-component-systems)
   * [Data Oriented Design](#data-oriented-design)
 * [Other resources](#other-resources)
 
@@ -103,6 +103,8 @@ My personal list of reference resources for game programming
 ### SIMD
 * [SSE: mind the gap!](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
 * [SIMD at Insomniac Games](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
+* [SIMD basics - Handmade Hero](https://hero.handmade.network/episode/code/day115/)
+* [Converting Math Operations to SIMD - Handmade Hero](https://hero.handmade.network/episode/code/day116/)
 
 ## Programming Languages
 ### C++
@@ -128,6 +130,9 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Multiprocessor Game Loops: Lessons from Uncharted 2: Among Thieves](https://www.slideshare.net/naughty_dog/multiprocessor-game-loops-lessons-from-uncharted-2-among-thieves)
 * [Parallelizing the Naughty Dog Engine Using Fibers](http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 * [The Poor Man's Threading Architecture](http://etodd.io/2016/01/12/poor-mans-threading-architecture/)
+* [Introduction to Multithreading - Handmade Hero](https://hero.handmade.network/episode/code/day122/)
+* [Interlocked Operations - Handmade Hero](https://hero.handmade.network/episode/code/day123/)
+* [Memory Barriers and Semaphones - Handmade Hero](https://hero.handmade.network/episode/code/day124/)
 
 ## Networking
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
@@ -139,7 +144,11 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/)
 
 ## Physics
+* [Advanced Character Physics](http://web.archive.org/web/20080410171619/http://www.teknikus.dk/tj/gdc2001.htm)
 * [Fix your timestep!](https://gafferongames.com/post/fix_your_timestep/)
+* [Erin Catto's GDC slides](https://code.google.com/archive/p/box2d/downloads)
+* [Continuous Collision, Physics for Game Programmers. Erin Catto](http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous)
+* [RigidBody Dynamics](http://chrishecker.com/Rigid_Body_Dynamics)
 
 ## Software Architecture and Design
 ### Design Patterns and OOP
@@ -150,7 +159,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Singleton - Game Programming Patterns](http://gameprogrammingpatterns.com/observer.html)
 * [Service Locator - Game Programming Patterns](http://gameprogrammingpatterns.com/service-locator.html)
 * [Event Queue - Game Programming Patterns](http://gameprogrammingpatterns.com/event-queue.html)
-### Entity Component System
+### Entity Component Systems
 * [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
 * [What is an Entity Component System architecture for game development? - Richard Lord](http://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
 * [Understanding Component-Entity-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
