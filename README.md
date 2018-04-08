@@ -15,6 +15,7 @@ My personal list of reference resources for game programming
   * [SIMD](#simd)
 * [Programming Languages](#programming-languages)
 * [Math](#math)
+* [Memory Management](#memory-management)
 * [Multithreading](#multithreading)
 * [Networking](#networking)
 * [Physics](#physics)
@@ -122,6 +123,17 @@ My personal list of reference resources for game programming
 * [Grassman Algebra in Game Development - Eric Lengyel (GDC 2014)](http://www.terathon.com/gdc14_lengyel.pdf)
 * [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 * [Math for Game Programmers](http://www.mathforgameprogrammers.com/)
+
+## Memory Management
+
+* [Linear Allocator - Nicollas Frechette](https://nfrechette.github.io/2015/05/21/linear_allocator/)
+* [Virtual Memory Aware Linear Allocator - Nicollas Frechette](https://nfrechette.github.io/2015/06/11/vmem_linear_allocator/)
+* [Stack Frame Allocator - Nicollas Frechette](https://nfrechette.github.io/2016/05/08/stack_frame_allocators/)
+* [Greedy Stack Frame Allocator - Nicollas Frechette](https://nfrechette.github.io/2016/05/09/greedy_stack_frame_allocator/)
+* [Virtual Memory Aware Stack Frame Allocator - Nicollas Frechette](https://nfrechette.github.io/2016/10/17/vmem_stack_frame_allocator/)
+* [Allocation Adventures, The Buddy Allocator - Bitsquid](http://bitsquid.blogspot.com.br/2015/08/allocation-adventures-3-buddy-allocator.html)
+* [Local (“Arena”) Memory Allocators, John Lakon, C++ Now 2017](https://www.youtube.com/watch?v=CVbnjydW5M0)
+* [Memory Allocators](https://github.com/mtrebi/memory-allocators)
 
 ## Multithreading
 * [Designing the Framework of a
