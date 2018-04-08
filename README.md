@@ -33,6 +33,15 @@ My personal list of reference resources for game programming
 * [Understanding modern GPU's part 1 - introduction](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
 * [Understanding modern GPU's part 2 - Drivers and Command Ring](https://traxnet.wordpress.com/2011/07/18/understanding-modern-gpus-2/)
 * [Understanding Modern GPU's part 3 - Command And Setup Logic](https://traxnet.wordpress.com/2011/07/22/understanding-modern-gpus-3/)
+* [Scheduling the Graphics Pipeline - SIGGRAPH 2011](http://bps11.idav.ucdavis.edu/talks/05-schedulingGraphicsPipeline-BPS2011-ragankelley.pdf)
+* [Breaking down barriers - part 1](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
+* [Breaking down barriers - part 2](https://mynameismjp.wordpress.com/2018/04/01/breaking-down-barriers-part-2-synchronizing-gpu-threads/)
+* [A look at the PowerVR graphics architecture: Tile-based rendering](https://www.imgtec.com/blog/a-look-at-the-powervr-graphics-architecture-tile-based-rendering/)
+* [The Mali GPU: An Abstract Machine, Part 1 - Frame Pipelining](https://community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-1---frame-pipelining)
+* [The Mali GPU: An Abstract Machine, Part 2 - Tile-based Rendering](https://www.community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-2---tile-based-rendering)
+* [The Mali GPU: An Abstract Machine, Part 3 - The Midgard Shader Core](https://community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-3---the-midgard-shader-core)
+* [The Mali GPU: An Abstract Machine, Part 4 - The Bifrost Shader Core](https://www.community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-4---the-bifrost-shader-core)
+* [AMD GCN3 ISA Architecture Manual](https://gpuopen.com/compute-product/amd-gcn3-isa-architecture-manual/)
 
 ### API specifics
 #### DirectX 12
@@ -47,25 +56,48 @@ My personal list of reference resources for game programming
 #### OpenGL
 * [Learn OpenGL](https://learnopengl.com/)
 * [OpenGL Renderer Design - nlguillemot](https://nlguillemot.wordpress.com/)
+* [Approaching Zero Driver Overhead on OpenGL](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead)
 #### Vulkan
 * [Vulkan tutorial](https://vulkan-tutorial.com/)
 * [Vulkan in 30 minutos](https://renderdoc.org/vulkan-in-30-minutes.html)
 * [Vulkan Fast Paths - GDC 2016](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [Vulkan Multithreading](https://developer.nvidia.com/sites/default/files/akamai/gameworks/blog/munich/mschott_vulkan_multi_threading.pdf)
 
-### Techniques
-
 ### Shader Programming
 * [The book of Shaders](https://thebookofshaders.com/)
 * [A gentle introduction to shaders in Unity3D](https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
 
+### Techniques
+* [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
+* [A quick overview of MSAA](https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/)
+* [Physically Based Shading in Theory and Practice - SIGGRAPH 2016](http://blog.selfshadow.com/publications/s2016-shading-course/)
+* [Real-Time Many-Light Management and Shadows with Clustered Shading](https://newq.net/publications/more/s2015-many-lights-course)
+* [Order your draw calls around!](http://realtimecollisiondetection.net/blog/?p=86)
+
+## Graphics Studies
+* [GTA V Graphics Study - Adrian Courreges](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
+* [DOOM 2016 Graphics Study - Adrian Courreges](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+* [Metal Gear Solid V - Graphics Study](http://www.adriancourreges.com/blog/2017/12/15/mgs-v-graphics-study/)
+* [How Unreal renders a frame](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/amp/)
+* [The Rendering of Middle Earth Shadow of Mordor](http://www.elopezr.com/the-rendering-of-middle-earth-shadow-of-mordor/)
+
+## Low Level Programming
+### Assembly and CPU microarchitecture
+* [Software optimization resources](http://www.agner.org/optimize/)
+* [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
+* [Optimizing subroutines in assembly language: An optimization guide for x86 platforms](http://www.agner.org/optimize/optimizing_assembly.pdf)
+### SIMD
+* [SSE: mind the gap!](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
+* [SIMD at Insomniac Games](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
+
 ## Programming Languages
 ### C++
 * [Debugging Tips and Tricks for C++ in Visual Studio](https://blogs.msdn.microsoft.com/vcblog/2016/07/11/debugging-tips-and-tricks-for-c-in-visual-studio/)
+* [Practical Guide to bare metal C++](https://arobenko.gitbooks.io/bare_metal_cpp/content/)
 * [Simple Live C++ Reloading in Visual Studio](https://nlguillemot.wordpress.com/2018/02/16/simple-live-c-reloading-in-visual-studio/)
 
 ### C#
-
+* [C# Yellow Book](http://www.csharpcourse.com/)
 ## Math
 * [Building a better jump - Math for Game Programmers](http://www.mathforgameprogrammers.com/gdc2016/GDC2016_Pittman_Kyle_BuildingABetterJump.pdf)
 * [Essential Math for Game Programmers](http://essentialmath.com/book.htm)
@@ -77,11 +109,13 @@ My personal list of reference resources for game programming
 * [Designing the Framework of a
 Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_a_Parallel_Game_Engine.pdf)
 * [Destiny's Multithreaded Rendering Architecture](http://gdcvault.com/play/1021926/Destiny-s-Multithreaded-Rendering)
+* [Multiprocessor Game Loops: Lessons from Uncharted 2: Among Thieves](https://www.slideshare.net/naughty_dog/multiprocessor-game-loops-lessons-from-uncharted-2-among-thieves)
 * [Parallelizing the Naughty Dog Engine Using Fibers](http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 * [The Poor Man's Threading Architecture](http://etodd.io/2016/01/12/poor-mans-threading-architecture/)
 
 ## Networking
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+* [Sending Large Blocks of Data over UDP - Gaffer on Games](https://gafferongames.com/post/sending_large_blocks_of_data/)
 * [Tribes Networking Model](http://gamedevs.org/uploads/tribes-networking-model.pdf)
 * [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/)
 
@@ -90,6 +124,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 
 ## Software Architecture and Design
 ### Design Patterns and OOP
+* [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 * [Command - Game Programming Patterns](http://gameprogrammingpatterns.com/command.html)
 * [Component - Game Programming Patterns](http://gameprogrammingpatterns.com/component.html)
 * [Observer - Game Programming Patterns](http://gameprogrammingpatterns.com/observer.html)
@@ -105,3 +140,5 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [CPU Cache and why you care - Scoot Meyers](https://vimeo.com/97337258)
 * [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
 * [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
+* [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
+* [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
