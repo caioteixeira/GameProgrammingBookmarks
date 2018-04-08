@@ -179,8 +179,13 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Event Queue - Game Programming Patterns](http://gameprogrammingpatterns.com/event-queue.html)
 ### Entity Component Systems
 * [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
+* [Evolve your hierarchy! - Cowboy Programming](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
 * [What is an Entity Component System architecture for game development? - Richard Lord](http://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
 * [Understanding Component-Entity-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
+* [Building a Data-Oriented Entity System (part 1)](http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 2: Components)](http://bitsquid.blogspot.com.br/2014/09/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 3: The Transform Component)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 4: Entity Resources)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system_10.html)
 ### Data Oriented Design
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 * [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design)
