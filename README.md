@@ -4,11 +4,19 @@ My personal list of reference resources for game programming
 # Table of Contents
 * [AI](#ai)
 * [Graphics](#graphics)
+  * [Hardware](#hardware)
+  * [API specifics](#api-specifics)
+  * [Shader Programming](#shader-programming)
+  * [Techniques](#techniques)
 * [Programming Languages](#programming-languages)
 * [Math](#math)
 * [Networking](#networking)
 * [Multithreading](#multithreading)
 * [Physics](#physics)
+* [Software architecture and design](#software-architecture-and-design)
+  * [Design Patterns and OOP](#design-patterns-and-oop)
+  * [Entity-component-systems (ECS)](#entity-component-system)
+  * [Data Oriented Design](#data-oriented-design)
 
 # AI
 
@@ -43,5 +51,5 @@ My personal list of reference resources for game programming
 
 # Software Architecture and Design
 ## Design Patterns and OOP
-## Entity-Component-System (ECS)
+## Entity Component System
 ## Data Oriented Design
