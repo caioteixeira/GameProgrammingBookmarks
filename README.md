@@ -1,5 +1,5 @@
 # Game Programming Resources
-My personal list of reference resources for game programming
+My personal game programming bookmarks 
 
 # Table of Contents
 * [AI](#ai)
@@ -23,6 +23,8 @@ My personal list of reference resources for game programming
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [Entity-component-systems (ECS)](#entity-component-systems)
   * [Data Oriented Design](#data-oriented-design)
+* [UI](#ui)
+* [Tools Development](#tools-development)
 * [Other resources](#other-resources)
 
 ## AI
@@ -77,10 +79,13 @@ My personal list of reference resources for game programming
 * [Vulkan in 30 minutos](https://renderdoc.org/vulkan-in-30-minutes.html)
 * [Vulkan Fast Paths - GDC 2016](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [Vulkan Multithreading](https://developer.nvidia.com/sites/default/files/akamai/gameworks/blog/munich/mschott_vulkan_multi_threading.pdf)
+* [Getting explicit: how hard is vulkan really? GDC 2018](https://www.youtube.com/watch?v=0R23npUCCnw)
 
 ### Shader Programming
 * [The book of Shaders](https://thebookofshaders.com/)
 * [A gentle introduction to shaders in Unity3D](https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
+* [Shaders, a short story](https://medium.com/@darkdreamday/shaders-a-short-story-31210427a7c)
+* [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 
 ### Techniques
 * [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
@@ -160,6 +165,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Fix your timestep!](https://gafferongames.com/post/fix_your_timestep/)
 * [Erin Catto's GDC slides](https://code.google.com/archive/p/box2d/downloads)
 * [Continuous Collision, Physics for Game Programmers. Erin Catto](http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous)
+* [Physics and Collision Detection, Alan Hazelden](http://www.draknek.org/physics/wgd-talk.pdf)
 * [RigidBody Dynamics](http://chrishecker.com/Rigid_Body_Dynamics)
 
 ## Software Architecture and Design
@@ -185,8 +191,24 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
 * [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
 
+## UI
+* [Immediate Mode
+Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)
+* [Immediate-mode graphical user interfaces - Casey Muratori](https://caseymuratori.com/blog_0001)
+
+## Tools Development
+* [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
+* [Why Qt and not Imgui - Andreas Fredriksson](https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/)
+* [Why I think Immediate Mode GUI is way to go for GameDev tools](https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62)
+* [Web Tools for Application UI](https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/)
+* [Tools Tutorial - Shipping Call of Duty at Infinity Ward - GDC 2018](http://gdcvault.com/play/1025380/Tools-Tutorial-Day-Shipping-Call)
+* [Automated Testing and Profiling for ‘Call of Duty’](http://gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for)
+* [Build Great Tools: Workflow Guidelines from Vicarious Visions - GDC 2018](http://gdcvault.com/play/1025475/Build-Great-Tools-Workflow-Guidelines)
+
 ## Other resources
 * [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
 * [Engine and Graphics Programming Study Notes](https://encelo.github.io/notes.html)
 * [List of Cool blogs on game programming](https://gist.github.com/Reedbeta/dd800c6bda59c3351fbd3474acbea430)
 * [/r/gamedev FAQ](https://www.reddit.com/r/gamedev/wiki/faq)
+* [/r/gamedev resources page](https://www.reddit.com/r/gamedev/wiki/resources)
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
