@@ -1,4 +1,4 @@
-# Game Programming Resources
+# Game Programming Bookmarks
 My personal game programming bookmarks 
 
 # Table of Contents
