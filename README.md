@@ -3,6 +3,7 @@ My personal list of reference resources for game programming
 
 # Table of Contents
 * [AI](#ai)
+* [Career](#career)
 * [Graphics](#graphics)
   * [Hardware and Graphics Pipeline](#hardware-and-graphics-pipeline)
   * [API specifics](#api-specifics)
@@ -21,6 +22,7 @@ My personal list of reference resources for game programming
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [Entity-component-systems (ECS)](#entity-component-system)
   * [Data Oriented Design](#data-oriented-design)
+* [More lists](#more-lists)
 
 ## AI
 * [Introduction to A* - Red Blob Games](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
@@ -28,6 +30,10 @@ My personal list of reference resources for game programming
 * [Pathfinding for Tower Defense - Red Blob Games](https://www.redblobgames.com/pathfinding/tower-defense/)
 * [Relic's Templatized A* implementation](http://jurneydownloads.s3.amazonaws.com/gdc/Relic_AStarKit.zip)
 * [Ellie: Buddy AI in The Last of Us - Game AI Pro 2](http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter35_Ellie_Buddy_AI_in_The_Last_of_Us.pdf)
+
+## Career
+* [So you want to be a game programmer? Noel Llopis](http://gamesfromwithin.com/so-you-want-to-be-a-game-programmer)
+* [How bad is the game industry for new programmers - Quora](https://www.quora.com/How-bad-is-the-game-developer-industry-for-new-programmers)
 
 ## Graphics
 ### Hardware and Graphics Pipeline
@@ -152,4 +158,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
 * [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
 * [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
+
+## More Lists
+* [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
 * [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
