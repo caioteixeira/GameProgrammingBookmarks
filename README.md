@@ -1,25 +1,35 @@
 # Game Programming Resources
 My personal list of reference resources for game programming
 
+# Table of Contents
+* [AI](#ai)
+* [Graphics](#graphics)
+* [Programming Languages](#programming-languages)
+* [Math](#math)
+* [Networking](#networking)
+* [Multithreading](#multithreading)
+* [Physics](#physics)
+
 # AI
 
 # Graphics
-## API specifics
-### DirectX 12
-### OpenGL
-### Vulkan
+## Fundamentals
 
 ## Hardware
 ### Desktop hardware
 ### Mobile hardware
-## Fundamentals
+
+## API specifics
+### DirectX 12
+### OpenGL
+### Vulkan
 
 ## Techniques
 
 ## Shader Programming
 
 
-# Languages
+# Programming Languages
 ## C++
 ## C#
 
