@@ -76,7 +76,7 @@ My personal game programming bookmarks
 * [Approaching Zero Driver Overhead on OpenGL](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead)
 #### Vulkan
 * [Vulkan tutorial](https://vulkan-tutorial.com/)
-* [Vulkan in 30 minutos](https://renderdoc.org/vulkan-in-30-minutes.html)
+* [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)
 * [Vulkan Fast Paths - GDC 2016](http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/VulkanFastPaths.pdf)
 * [Vulkan Multithreading](https://developer.nvidia.com/sites/default/files/akamai/gameworks/blog/munich/mschott_vulkan_multi_threading.pdf)
 * [Getting explicit: how hard is vulkan really? GDC 2018](https://www.youtube.com/watch?v=0R23npUCCnw)
