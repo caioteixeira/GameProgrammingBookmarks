@@ -217,7 +217,7 @@ Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cs
 * [Immediate-mode graphical user interfaces - Casey Muratori](https://caseymuratori.com/blog_0001)
 
 ## Other resources
-* [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
+* [A study path for game programmer - miloyip](https://github.com/miloyip/game-programmer)
 * [Engine and Graphics Programming Study Notes](https://encelo.github.io/notes.html)
 * [List of Cool blogs on game programming](https://gist.github.com/Reedbeta/dd800c6bda59c3351fbd3474acbea430)
 * [/r/gamedev FAQ](https://www.reddit.com/r/gamedev/wiki/faq)
