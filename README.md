@@ -23,8 +23,8 @@ My personal game programming bookmarks
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [Entity-component-systems (ECS)](#entity-component-systems)
   * [Data Oriented Design](#data-oriented-design)
-* [UI](#ui)
 * [Tools Development](#tools-development)
+* [UI](#ui)
 * [Other resources](#other-resources)
 
 ## AI
@@ -200,11 +200,6 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
 * [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
 
-## UI
-* [Immediate Mode
-Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)
-* [Immediate-mode graphical user interfaces - Casey Muratori](https://caseymuratori.com/blog_0001)
-
 ## Tools Development
 * [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
 * [Why Qt and not Imgui - Andreas Fredriksson](https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/)
@@ -213,6 +208,11 @@ Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cs
 * [Tools Tutorial - Shipping Call of Duty at Infinity Ward - GDC 2018](http://gdcvault.com/play/1025380/Tools-Tutorial-Day-Shipping-Call)
 * [Automated Testing and Profiling for ‘Call of Duty’](http://gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for)
 * [Build Great Tools: Workflow Guidelines from Vicarious Visions - GDC 2018](http://gdcvault.com/play/1025475/Build-Great-Tools-Workflow-Guidelines)
+
+## UI
+* [Immediate Mode
+Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)
+* [Immediate-mode graphical user interfaces - Casey Muratori](https://caseymuratori.com/blog_0001)
 
 ## Other resources
 * [A study path the game programmer - miloyip](https://github.com/miloyip/game-programmer)
