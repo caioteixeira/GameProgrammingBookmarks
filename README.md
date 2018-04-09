@@ -122,6 +122,8 @@ My personal game programming bookmarks
 
 ### C#
 * [C# Yellow Book](http://www.csharpcourse.com/)
+* [MSDN C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+* [MSDN C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 
 ## Math
 * [Building a better jump - Math for Game Programmers](http://www.mathforgameprogrammers.com/gdc2016/GDC2016_Pittman_Kyle_BuildingABetterJump.pdf)
