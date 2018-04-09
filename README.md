@@ -32,6 +32,7 @@ My personal game programming bookmarks
 * [Implementation of A* - Red Blob Games](https://www.redblobgames.com/pathfinding/a-star/implementation.html)
 * [Pathfinding for Tower Defense - Red Blob Games](https://www.redblobgames.com/pathfinding/tower-defense/)
 * [Relic's Templatized A* implementation](http://jurneydownloads.s3.amazonaws.com/gdc/Relic_AStarKit.zip)
+* [Goal Oriented Action Planning: 10 years of AI programming - GDC 2015](https://www.youtube.com/watch?v=gm7K68663rA&index=5&list=WL&t=0s)
 * [Ellie: Buddy AI in The Last of Us - Game AI Pro 2](http://www.gameaipro.com/GameAIPro2/GameAIPro2_Chapter35_Ellie_Buddy_AI_in_The_Last_of_Us.pdf)
 
 ## Career
@@ -53,6 +54,7 @@ My personal game programming bookmarks
 * [Scheduling the Graphics Pipeline - SIGGRAPH 2011](http://bps11.idav.ucdavis.edu/talks/05-schedulingGraphicsPipeline-BPS2011-ragankelley.pdf)
 * [Breaking down barriers - part 1](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
 * [Breaking down barriers - part 2](https://mynameismjp.wordpress.com/2018/04/01/breaking-down-barriers-part-2-synchronizing-gpu-threads/)
+* [Mobile vs Desktop GPUs - Olivier Franzke](https://www.youtube.com/watch?v=5ln4Bmer5eA)
 * [A look at the PowerVR graphics architecture: Tile-based rendering](https://www.imgtec.com/blog/a-look-at-the-powervr-graphics-architecture-tile-based-rendering/)
 * [The Mali GPU: An Abstract Machine, Part 1 - Frame Pipelining](https://community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-1---frame-pipelining)
 * [The Mali GPU: An Abstract Machine, Part 2 - Tile-based Rendering](https://www.community.arm.com/graphics/b/blog/posts/the-mali-gpu-an-abstract-machine-part-2---tile-based-rendering)
