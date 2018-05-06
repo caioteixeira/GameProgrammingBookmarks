@@ -42,6 +42,7 @@ My personal game programming bookmarks
 * [How to become a Graphics Programmer on the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
 * [Ara's Interview Questions](https://aras-p.info/blog/2016/11/05/Interview-questions/)
 * [Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html)
+* [Notes on Robert Martin's Clean Coder](https://gaston.life/books/clean-coder/)
 
 ## Graphics
 ### Hardware and Graphics Pipeline
