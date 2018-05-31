@@ -20,10 +20,10 @@ My personal game programming bookmarks
 * [Networking](#networking)
 * [Physics](#physics)
 * [Software architecture and design](#software-architecture-and-design)
+  * [Data Oriented Design](#data-oriented-design)
+  * [Entity-component-systems (ECS)](#entity-component-systems)
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [MVC/MVP/MVVM](#mvcmvpmvvm)
-  * [Entity-component-systems (ECS)](#entity-component-systems)
-  * [Data Oriented Design](#data-oriented-design)
 * [Tools Development](#tools-development)
 * [UI](#ui)
 * [Other resources](#other-resources)
@@ -175,6 +175,27 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [RigidBody Dynamics](http://chrishecker.com/Rigid_Body_Dynamics)
 
 ## Software Architecture and Design
+
+### Entity Component Systems
+* [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
+* [Evolve your hierarchy! - Cowboy Programming](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
+* [What is an Entity Component System architecture for game development? - Richard Lord](http://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
+* [Understanding Component-Entity-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
+* [Building a Data-Oriented Entity System (part 1)](http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 2: Components)](http://bitsquid.blogspot.com.br/2014/09/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 3: The Transform Component)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system.html)
+* [Building a Data-Oriented Entity System (Part 4: Entity Resources)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system_10.html)
+
+### Data Oriented Design
+* [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+* [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design)
+* [Data Locality - Game Programming Patterns](http://gameprogrammingpatterns.com/data-locality.html)
+* [CPU Cache and why you care - Scoot Meyers](https://vimeo.com/97337258)
+* [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
+* [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
+* [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
+* [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
+
 ### Design Patterns and OOP
 * [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 * [Command - Game Programming Patterns](http://gameprogrammingpatterns.com/command.html)
@@ -190,25 +211,6 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Models, views, controllers, presenters, oh my!](https://frozenfractal.com/blog/2016/1/15/models-views-controllers-presenters-oh-my/)
 * [A critique of MVC/MVVM as a pattern for game development](https://www.gamasutra.com/blogs/AshkanSaeediMazdeh/20141229/230779/A_critique_of_MVCMVVM_as_a_pattern_for_game_development.php)
 * [Don’t bring web development toys to Unity’s kindergarten](http://gamesarchitecture.com/dont-bring-web-development-toys-to-unitys-kindergarten/)
-
-### Entity Component Systems
-* [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
-* [Evolve your hierarchy! - Cowboy Programming](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
-* [What is an Entity Component System architecture for game development? - Richard Lord](http://www.richardlord.net/blog/ecs/what-is-an-entity-framework.html)
-* [Understanding Component-Entity-Systems](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
-* [Building a Data-Oriented Entity System (part 1)](http://bitsquid.blogspot.com/2014/08/building-data-oriented-entity-system.html)
-* [Building a Data-Oriented Entity System (Part 2: Components)](http://bitsquid.blogspot.com.br/2014/09/building-data-oriented-entity-system.html)
-* [Building a Data-Oriented Entity System (Part 3: The Transform Component)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system.html)
-* [Building a Data-Oriented Entity System (Part 4: Entity Resources)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system_10.html)
-### Data Oriented Design
-* [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
-* [Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)](http://gamesfromwithin.com/data-oriented-design)
-* [Data Locality - Game Programming Patterns](http://gameprogrammingpatterns.com/data-locality.html)
-* [CPU Cache and why you care - Scoot Meyers](https://vimeo.com/97337258)
-* [Mike Acton's comments on Ogre's OgreNode.cpp](https://www.bounceapp.com/116414)
-* [Pitfalls of Object Oriented Programming - revisited](https://docs.google.com/presentation/d/1ST3mZgxmxqlpCFkdDhtgw116MQdCr2Fax2yjd8Az6zM/edit#slide=id.p)
-* [Practical Examples in Data Oriented Design - Bitsquid](https://docs.google.com/presentation/d/17Bzle0w6jz-1ndabrvC5MXUIQ5jme0M8xBF71oz-0Js/present?slide=id.i0)
-* [Typical C++ bullshit - Mike Acton](https://macton.smugmug.com/Other/2008-07-15-by-Eye-Fi/n-xmKDH/i-Dd6xtNh)
 
 ## Tools Development
 * [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
