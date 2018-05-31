@@ -182,8 +182,14 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Singleton - Game Programming Patterns](http://gameprogrammingpatterns.com/observer.html)
 * [Service Locator - Game Programming Patterns](http://gameprogrammingpatterns.com/service-locator.html)
 * [Event Queue - Game Programming Patterns](http://gameprogrammingpatterns.com/event-queue.html)
-* [A critique of MVC/MVVM as a pattern for game development](https://www.gamasutra.com/blogs/AshkanSaeediMazdeh/20141229/230779/A_critique_of_MVCMVVM_as_a_pattern_for_game_development.php)
 * [Game Architecture](http://gamesarchitecture.com/)
+
+### MVC/MVP/MVVM
+* [Why are MVC & TDD not employed more in game architecture? (Gamedev Stackexchange](https://gamedev.stackexchange.com/questions/3426/why-are-mvc-tdd-not-employed-more-in-game-architecture)
+* [Models, views, controllers, presenters, oh my!](https://frozenfractal.com/blog/2016/1/15/models-views-controllers-presenters-oh-my/)
+* [A critique of MVC/MVVM as a pattern for game development](https://www.gamasutra.com/blogs/AshkanSaeediMazdeh/20141229/230779/A_critique_of_MVCMVVM_as_a_pattern_for_game_development.php)
+* [Don’t bring web development toys to Unity’s kindergarten](http://gamesarchitecture.com/dont-bring-web-development-toys-to-unitys-kindergarten/)
+
 ### Entity Component Systems
 * [Entity Component Samples - sosolimited](https://github.com/sosolimited/Entity-Component-Samples)
 * [Evolve your hierarchy! - Cowboy Programming](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
