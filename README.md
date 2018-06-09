@@ -212,6 +212,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Models, views, controllers, presenters, oh my!](https://frozenfractal.com/blog/2016/1/15/models-views-controllers-presenters-oh-my/)
 * [A critique of MVC/MVVM as a pattern for game development](https://www.gamasutra.com/blogs/AshkanSaeediMazdeh/20141229/230779/A_critique_of_MVCMVVM_as_a_pattern_for_game_development.php)
 * [Don’t bring web development toys to Unity’s kindergarten](http://gamesarchitecture.com/dont-bring-web-development-toys-to-unitys-kindergarten/)
+* [GUI Architectures - Martin Fowler](https://martinfowler.com/eaaDev/uiArchs.html)
 
 ## Tools Development
 * [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
