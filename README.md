@@ -40,6 +40,8 @@ My personal game programming bookmarks
 * [So you want to be a game programmer? Noel Llopis](http://gamesfromwithin.com/so-you-want-to-be-a-game-programmer)
 * [How bad is the game industry for new programmers - Quora](https://www.quora.com/How-bad-is-the-game-developer-industry-for-new-programmers)
 * [Game Development Salaries](https://www.loveforgames.com/salary/)
+* [How to become a game programmer - Fragment Buffer](http://www.fragmentbuffer.com/how-to-become-a-game-programmer/)
+* [Begin a programmer in the games industry - Fragment Buffer](http://www.fragmentbuffer.com/docs/BeingAProgrammerInTheGamesIndustry.pdf)
 * [How to become a Graphics Programmer on the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
 * [How to become an advanced graphics programmer (twitter thread](https://twitter.com/erkaman2/status/1004030860897783808)
 * [Ara's Interview Questions](https://aras-p.info/blog/2016/11/05/Interview-questions/)
@@ -92,6 +94,9 @@ My personal game programming bookmarks
 * [Shaders, a short story](https://medium.com/@darkdreamday/shaders-a-short-story-31210427a7c)
 * [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 
+### Raytracing
+* [A very quick DirectX Raytracing API primer](https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer)
+
 ### Techniques
 * [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
 * [A quick overview of MSAA](https://mynameismjp.wordpress.com/2012/10/24/msaa-overview/)
@@ -139,6 +144,7 @@ My personal game programming bookmarks
 
 ## Memory Management
 
+* [Hadnles are the better pointers](http://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [Linear Allocator - Nicollas Frechette](https://nfrechette.github.io/2015/05/21/linear_allocator/)
 * [Virtual Memory Aware Linear Allocator - Nicollas Frechette](https://nfrechette.github.io/2015/06/11/vmem_linear_allocator/)
 * [Stack Frame Allocator - Nicollas Frechette](https://nfrechette.github.io/2016/05/08/stack_frame_allocators/)
@@ -149,6 +155,7 @@ My personal game programming bookmarks
 * [Memory Allocators](https://github.com/mtrebi/memory-allocators)
 
 ## Multithreading
+* [Multithreading for gamedev students](http://www.fragmentbuffer.com/docs/MultithreadingForGamedevStudents.pdf)
 * [Designing the Framework of a
 Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_a_Parallel_Game_Engine.pdf)
 * [Destiny's Multithreaded Rendering Architecture](http://gdcvault.com/play/1021926/Destiny-s-Multithreaded-Rendering)
@@ -187,6 +194,8 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Building a Data-Oriented Entity System (Part 2: Components)](http://bitsquid.blogspot.com.br/2014/09/building-data-oriented-entity-system.html)
 * [Building a Data-Oriented Entity System (Part 3: The Transform Component)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system.html)
 * [Building a Data-Oriented Entity System (Part 4: Entity Resources)](http://bitsquid.blogspot.com.br/2014/10/building-data-oriented-entity-system_10.html)
+* [Should entities support multiple instances of the same component? - Our Machinery](http://ourmachinery.com/post/should-entities-support-multiple-instances-of-the-same-component/)
+* [Implementing ECS architecture in UE4. Giant space battle](https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1449913-implementing-ecs-architecture-in-ue4-giant-space-battle)
 
 ### Data Oriented Design
 * [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
@@ -215,6 +224,11 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Don’t bring web development toys to Unity’s kindergarten](http://gamesarchitecture.com/dont-bring-web-development-toys-to-unitys-kindergarten/)
 * [GUI Architectures - Martin Fowler](https://martinfowler.com/eaaDev/uiArchs.html)
 
+## Test automation
+* [Why Game Developers are afraid of Test Automation?](http://blog.filippkeks.com/2016/11/21/why-game-developers-are-afraid-of-test-automation.html)
+* [Why video game coders don't use TDD, and why it matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/)
+* [Test Driven Development - Games From Within category](http://gamesfromwithin.com/category/test-driven-development)
+
 ## Tools Development
 * [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
 * [Why Qt and not Imgui - Andreas Fredriksson](https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/)
@@ -233,6 +247,7 @@ Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cs
 * [A study path for game programmer - miloyip](https://github.com/miloyip/game-programmer)
 * [Engine and Graphics Programming Study Notes](https://encelo.github.io/notes.html)
 * [List of Cool blogs on game programming](https://gist.github.com/Reedbeta/dd800c6bda59c3351fbd3474acbea430)
+* [Encelo's Study Notes](https://encelo.github.io/notes.html)
 * [/r/gamedev FAQ](https://www.reddit.com/r/gamedev/wiki/faq)
 * [/r/gamedev resources page](https://www.reddit.com/r/gamedev/wiki/resources)
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
