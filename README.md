@@ -7,7 +7,7 @@ My personal game programming bookmarks
 * [Graphics](#graphics)
   * [Hardware and Graphics Pipeline](#hardware-and-graphics-pipeline)
   * [API specifics](#api-specifics)    
-  * [Raytracing](#raytracing)
+  * [Raytracing-and-Pathtracing](#raytracing-pathtracing)
   * [Shader Programming](#shader-programming)
   * [Techniques](#techniques) 
   * [Graphics studies](#graphics-studies)
@@ -96,8 +96,9 @@ My personal game programming bookmarks
 * [Shaders, a short story](https://medium.com/@darkdreamday/shaders-a-short-story-31210427a7c)
 * [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 
-### Raytracing
+### Raytracing and Pathtracing
 * [A very quick DirectX Raytracing API primer](https://blog.demofox.org/2018/03/19/a-very-quick-directx-raytracing-api-primer)
+* [Aras' Pathtracing series](http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/)
 
 ### Techniques
 * [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
