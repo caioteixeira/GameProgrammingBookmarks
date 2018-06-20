@@ -24,6 +24,7 @@ My personal game programming bookmarks
   * [Entity-component-systems (ECS)](#entity-component-systems)
   * [Design Patterns and OOP](#design-patterns-and-oop)
   * [MVC/MVP/MVVM](#mvcmvpmvvm)
+* [Test Automation](#test-automation)
 * [Tools Development](#tools-development)
 * [UI](#ui)
 * [Other resources](#other-resources)
@@ -228,6 +229,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Why Game Developers are afraid of Test Automation?](http://blog.filippkeks.com/2016/11/21/why-game-developers-are-afraid-of-test-automation.html)
 * [Why video game coders don't use TDD, and why it matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/)
 * [Test Driven Development - Games From Within category](http://gamesfromwithin.com/category/test-driven-development)
+* [Automated Testing and Profiling for ‘Call of Duty’](http://gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for)
 
 ## Tools Development
 * [Insomniac’s Web Tools (a postmortem) - Andreas Fredriksson](https://deplinenoise.files.wordpress.com/2017/03/webtoolspostmortem.pdf)
@@ -235,7 +237,6 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Why I think Immediate Mode GUI is way to go for GameDev tools](https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62)
 * [Web Tools for Application UI](https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/)
 * [Tools Tutorial - Shipping Call of Duty at Infinity Ward - GDC 2018](http://gdcvault.com/play/1025380/Tools-Tutorial-Day-Shipping-Call)
-* [Automated Testing and Profiling for ‘Call of Duty’](http://gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for)
 * [Build Great Tools: Workflow Guidelines from Vicarious Visions - GDC 2018](http://gdcvault.com/play/1025475/Build-Great-Tools-Workflow-Guidelines)
 
 ## UI
