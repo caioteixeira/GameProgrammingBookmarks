@@ -58,6 +58,7 @@ My personal game programming bookmarks
 * [Understanding modern GPU's part 1 - introduction](https://traxnet.wordpress.com/2011/07/16/understanding-modern-gpus-1/)
 * [Understanding modern GPU's part 2 - Drivers and Command Ring](https://traxnet.wordpress.com/2011/07/18/understanding-modern-gpus-2/)
 * [Understanding Modern GPU's part 3 - Command And Setup Logic](https://traxnet.wordpress.com/2011/07/22/understanding-modern-gpus-3/)
+* [How does a GPU shader core works](http://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf)
 * [Scheduling the Graphics Pipeline - SIGGRAPH 2011](http://bps11.idav.ucdavis.edu/talks/05-schedulingGraphicsPipeline-BPS2011-ragankelley.pdf)
 * [Breaking down barriers - part 1](https://mynameismjp.wordpress.com/2018/03/06/breaking-down-barriers-part-1-whats-a-barrier/)
 * [Breaking down barriers - part 2](https://mynameismjp.wordpress.com/2018/04/01/breaking-down-barriers-part-2-synchronizing-gpu-threads/)
