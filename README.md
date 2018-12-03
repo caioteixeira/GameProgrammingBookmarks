@@ -246,6 +246,7 @@ Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_
 * [Immediate Mode
 Graphical User Interfaces - Rickard Gustafsson, Johannes Algelind](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/Advanced%20Computer%20Graphics/IMGUI.pdf)
 * [Immediate-mode graphical user interfaces - Casey Muratori](https://caseymuratori.com/blog_0001)
+* [How hard can it be - UI development at keen games](https://www.slideshare.net/julienkoenen/how-hard-can-it-be-ui-development-at-keen-games)
 
 ## Other resources
 * [A study path for game programmer - miloyip](https://github.com/miloyip/game-programmer)
