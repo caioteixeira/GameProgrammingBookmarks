@@ -159,6 +159,7 @@ My personal game programming bookmarks
 * [Memory Allocators](https://github.com/mtrebi/memory-allocators)
 
 ## Multithreading
+* [A gentle introduction to Multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
 * [Multithreading for gamedev students](http://www.fragmentbuffer.com/docs/MultithreadingForGamedevStudents.pdf)
 * [Designing the Framework of a
 Parallel Game Engine ](https://software.intel.com/sites/default/files/Designing_a_Parallel_Game_Engine.pdf)
