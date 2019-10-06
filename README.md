@@ -120,6 +120,7 @@ My personal game programming bookmarks
 * [Software optimization resources](http://www.agner.org/optimize/)
 * [The microarchitecture of Intel, AMD and VIA CPUs](http://www.agner.org/optimize/microarchitecture.pdf)
 * [Optimizing subroutines in assembly language: An optimization guide for x86 platforms](http://www.agner.org/optimize/optimizing_assembly.pdf)
+* [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 ### SIMD
 * [SSE: mind the gap!](https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/)
 * [SIMD at Insomniac Games](https://deplinenoise.files.wordpress.com/2015/03/gdc2015_afredriksson_simd.pdf)
