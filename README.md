@@ -146,6 +146,7 @@ My personal game programming bookmarks
 * [Interactive Linear Algebra](http://immersivemath.com/ila/index.html)
 * [Math for Game Developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 * [Math for Game Programmers](http://www.mathforgameprogrammers.com/)
+* [3D Math Primer for Graphics and Game Development (Free book)](https://gamemath.com/book/)
 
 ## Memory Management
 
